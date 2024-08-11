@@ -1,4 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif)
 
 <h1 align="center">Hi 👋, I'm Suman</h1>
 <h3 align="center">A passionate backend developer from India</h3>
