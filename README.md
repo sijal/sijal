@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Spring based project**
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **AI Fundamentals**
 
 - 💬 Ask me about **Java | Docker | Springboot | kubernetes**
 
