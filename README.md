@@ -1,53 +1,106 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Suman</h1>
-<h3 align="center">A passionate backend developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sijal&label=Profile%20views&color=0e75b6&style=flat" alt="sijal" /> </p>
+# Suman Singh
+### Associate Lead Software Developer · Nomura · Mumbai, India
 
-<p align="left"> <a href="https://twitter.com/sayssuman" target="blank"><img src="https://img.shields.io/twitter/follow/sayssuman?logo=twitter&style=for-the-badge" alt="sayssuman" /></a> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumansingh76)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumansocial415@gmail.com)
+[![Azure](https://img.shields.io/badge/AZ--900_Certified-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-- 🔭 I’m currently working on **Spring based project**
+</div>
 
-- 🌱 I’m currently learning **AI Fundamentals**
+---
 
-- 💬 Ask me about **Java | Docker | Springboot | kubernetes**
+## 👋 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sayssuman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayssuman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suman-singh-466953a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-singh-466953a1" height="30" width="40" /></a>
-</p>
+I'm a **backend-focused Software Engineer with 9+ years of experience** building high-performance, cloud-native systems across **banking, finance, and healthcare** domains.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure Cloud" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> 
-  <a href="https://www.oracle.com/database/technologies/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/800px-Oracle_SQL_Developer_logo.svg.png" alt="oracle SQL" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*MLFxdoY6ImiTghX9l0lDTA.png" alt="Docker" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" alt="Junit" width="40" height="40"/> </a> 
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354051/maven.svg" alt="Maven" width="40" height="40"/> </a> 
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" alt="Hibernate" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS Cloud" width="40" height="40"/> </a> 
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="Javascript" width="40" height="40"/> </a> 
-  <a href="https://azure.microsoft.com/en-us/products/kubernetes-service" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/448269/azure-aks.svg" alt="Azure Kubernetes Service (AKS)" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=143485223644&campaign=18442427757&creative=656562805594&device=c&keyword=jira&matchtype=e&network=g&placement=&ds_kids=p73345677068&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-6Jjm4s1ngrQBl5YI7RnpC-SxD-CEWzx-EkV6OB7jO9PHIwLtTi10waAkYtEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a> 
-  <a href="https://www.atlassian.com/software/confluence?&aceid=&adposition=&adgroup=140527013959&campaign=18336813584&creative=696416626712&device=c&keyword=confluence&matchtype=e&network=g&placement=&ds_kids=p73000477014&ds_e=GOOGLE&ds_eid=700000001542923&ds_e1=GOOGLE&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-7nK6C_eqaTAdRNzjqOZsmYuuos3iHpeJ44Icwa6XnBRkSY0ybGrQgaApFcEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353597/confluence.svg" alt="Confluence" width="40" height="40"/> </a> 
-  <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank" rel="noreferrer"> <img src="https://www.returngis.net/wp-content/uploads/2023/10/sonarqube-logo.png" alt="SonarQube" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" width="40" height="40"/> </a> 
-  <a href="https://www.ibm.com/products/websphere-application-server?utm_content=SRCWW&p1=Search&p4=43700074852178540&p5=e&p9=58700008242688195&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-4l6Na9PzR3CJ4Lb7q4kRK4mtpujxDga18KdTFU4rsrIjtkt7atY5saAu7XEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/quickstarts/images/icons/websphere--logo.svg" alt="IBM Websphere" width="40" height="40"/> </a> 
-  <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Apache_Tomcat_logo.svg/595px-Apache_Tomcat_logo.svg.png" alt="Tomcat" width="40" height="40"/> </a> 
-  <a href="https://www.splunk.com/en_us/download.html?utm_campaign=google_apac_south_ind_en_search_brand&utm_source=google&utm_medium=cpc&utm_content=free_trials_downloads&utm_term=splunk&device=c&_bt=683795859781&_bm=e&_bn=g&gad_source=1&gclid=Cj0KCQjwn9y1BhC2ARIsAG5IY-44Jq7mBwTHYGU0cBBUWEBJFVILDKl9H3mY9vSlm51YrUGSpnAAKj4aAhAMEALw_wcB" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=49188&format=png" alt="Splunk" width="40" height="40"/> </a> 
-  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*vZDu4Bwj2GxQh8t1IjDq4w.png" alt="ELK Stack" width="130" height="40"/> </a> 
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp&w=256" alt="PostgresSQL" width="40" height="40"/> </a>
-</p>
+Currently at **Nomura**, I work on Market Risk products — calculating Value at Risk (VaR) using OLAP cube architecture — and I actively use **AI-assisted development (Claude Code)** to accelerate delivery, automate infrastructure workflows, and integrate real-time observability pipelines.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sijal&show_icons=true&locale=en&layout=compact" alt="sijal" /></p>
+I believe the next generation of engineers will be defined not just by what they build, but by **how intelligently they leverage AI to build it faster and better.**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sijal&show_icons=true&locale=en" alt="sijal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sijal&" alt="sijal" /></p>
+## 🤖 AI-Assisted Development with Claude Code
+
+> *"I don't just write code — I engineer outcomes. Claude Code is my force multiplier."*
+
+Here's how I integrate **Claude Code** into my daily engineering workflow at Nomura:
+
+| Workflow | How I Use Claude Code |
+|---|---|
+| 🏗️ **Service Scaffolding** | Generate Spring Boot microservice boilerplate, config, and wiring in seconds |
+| ☁️ **Infrastructure Provisioning** | Script and automate cloud resource management on AWS & Azure |
+| 📊 **Monitoring Integration** | Build Grafana dashboard configs and ELK pipeline definitions |
+| 🐛 **Debugging** | Analyse stack traces, suggest root causes, and generate fix candidates |
+| 📝 **Documentation** | Auto-generate OpenAPI specs and inline Javadoc from code context |
+| 🔄 **Code Review** | Identify edge cases, security smells, and performance anti-patterns |
+| 🧪 **Test Generation** | Produce JUnit test cases with meaningful coverage scenarios |
+
+**Result**: Measurably faster delivery cycles, reduced manual toil, and higher observability coverage across the Market Risk platform.
+
+---
+
+## 🛠️ Tech Stack
+
+```
+Languages       Java 8/11/17 · SQL · PL/SQL · HTML · CSS · JavaScript
+Frameworks      Spring Boot · Spring MVC · Spring Batch · Hibernate/JPA · Akka
+Cloud           AWS · Microsoft Azure (AZ-900) · Docker · Kubernetes (AKS)
+Messaging       Apache Kafka · Azure Event Hub · Event-Driven Architecture
+Databases       Oracle SQL · OLAP (Active Pivot)
+Observability   ELK Stack (Elasticsearch · Logstash · Kibana) · Grafana
+AI Tools        Claude Code · Prompt Engineering · AI-Assisted Development
+Practices       Microservices · Clean Code · OOP · Agile/Scrum · OpenAPI
+```
+
+---
+
+## 💼 Career Snapshot
+
+```
+2024 – Present   Associate Lead Software Developer        Nomura, Mumbai
+2021 – 2024      Custom Software Engineer Sr. Analyst     Accenture, Mumbai
+2017 – 2021      System Engineer                          TCS, Mumbai
+```
+
+---
+
+## 📈 Key Achievements
+
+- 🔟 **10% reduction** in developer log aggregation time via centralised observability (Nomura)
+- ⚡ **50% improvement** in process time using EHCache caching architecture (Accenture)
+- 📉 **25% boost** in system efficiency by eliminating synchronous service call bottlenecks (Accenture)
+- 🚀 Led microservices migration to Azure cloud using **Kubernetes (AKS) + Azure Event Hub**
+- 🧑‍🏫 Mentored **2 interns** through full delivery lifecycle at Accenture
+- 🏆 **ACE & Pinnacle Awards** recipient at Accenture (2023)
+
+---
+
+## 🔭 What I'm Exploring
+
+- 🤖 Advanced **Claude Code** workflows for enterprise Java development
+- 📊 **Grafana** observability patterns for financial systems
+- ☁️ Cloud-native architecture patterns on **AWS & Azure**
+- 🧩 **OLAP & Active Pivot** for high-performance risk calculation engines
+
+---
+
+## 📊 Domain Expertise
+
+```
+Banking & Finance ████████████████████  Market Risk · VaR · DVP/Cash Trading · Core Banking
+Healthcare        ████████████████      Claims Validation · Prescription Management
+Cloud & DevOps    ███████████████       AWS · Azure · Docker · Kubernetes · CI/CD
+AI Integration    ████████████          Claude Code · Prompt Engineering · AI Workflows
+```
+
+---
+
+<div align="center">
+
+*"Building high-performance systems is the craft. Using AI to do it better is the edge."*
+
+📍 Mumbai, India &nbsp;|&nbsp; 💼 Open to Senior / Lead Engineering roles &nbsp;|&nbsp; 🤝 Let's connect on [LinkedIn](https://www.linkedin.com/in/suman-singh-466953a1/)
+
+</div>
