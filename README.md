@@ -44,7 +44,7 @@ Here's how I integrate **Claude Code** into my daily engineering workflow at Nom
 ## 🛠️ Tech Stack
 
 ```
-Languages       Java 8/11/17 · SQL · PL/SQL · HTML · CSS · JavaScript
+Languages       Java · SQL · PL/SQL · HTML · CSS · JavaScript
 Frameworks      Spring Boot · Spring MVC · Spring Batch · Hibernate/JPA · Akka
 Cloud           AWS · Microsoft Azure (AZ-900) · Docker · Kubernetes (AKS)
 Messaging       Apache Kafka · Azure Event Hub · Event-Driven Architecture
